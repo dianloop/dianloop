@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Welcome to Diana's GitHub</h1>
+  <h1>⭐ welcome to diana's github ⭐</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00CEC8&center=true&vCenter=true&width=600&lines=Ingeniera+en+Computaci%C3%B3n;Desarrollo+de+Software+y+Data+Science;Apasionada+por+la+Inteligencia+Artificial" alt="Typing SVG" />
 </div>
 
