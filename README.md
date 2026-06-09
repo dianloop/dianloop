@@ -1,91 +1,81 @@
-<h4 align="left">hola, soy</h4>
-<h1 align="left">diana <font color="#8B5CF6">lópez carmona</font></h1>
-<p align="left"><code>@dianloop</code> · <code>she/her</code> · <code>uaemex</code> · <code>méxico</code></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Diana%20López&fontAlign=50&fontAlignY=35&color=0:0D1117,100:1F6FEB&fontColor=ffffff" />
+</p>
+
+<div align="center">
+
+# Diana López Carmona
+
+### Software Engineering Student
+
+Backend Development • Data Science • Software Architecture
+
+</div>
+
+---
+
+## About Me
+
+I'm a Software Engineering student passionate about building useful software, learning new technologies, and solving real-world problems through programming.
+
+Currently interested in:
+
+- Backend Development
+- Software Architecture
+- Data Science
+- Databases
+- Cloud Technologies
+
+---
+
+## Technologies
 
 <p align="left">
-  <font color="#10B981">▃</font><font color="#8B5CF6">▅</font><font color="#10B981">▆</font><font color="#8B5CF6">▇</font><font color="#10B981">█</font><font color="#8B5CF6">▇</font><font color="#10B981">▆</font><font color="#8B5CF6">▅</font><font color="#10B981">▃</font><font color="#8B5CF6">▂</font><font color="#10B981">▃</font><font color="#8B5CF6">▅</font><font color="#10B981">▆</font><font color="#8B5CF6">▇</font><font color="#10B981">█</font><font color="#8B5CF6">▇</font><font color="#10B981">▆</font><font color="#8B5CF6">▅</font><font color="#10B981">▃</font>
+<img src="https://skillicons.dev/icons?i=java,spring,python,postgres,docker,git,github,vscode,mysql" />
 </p>
 
-<br>
+---
 
-<p>
-  Estudiante de Ing. en Computación en la UAEMex.<br>
-  Me apasionan las redes, la visión computacional y el análisis de datos.
-</p>
+## Featured Projects
 
-<br>
+### 🍔 How Many Burgers (HMB)
 
-<p><code>actualmente</code> <font color="#444444">────────────────────────────────────────────────────</font></p>
+Web-based game developed using Java and software engineering principles.
 
-<p>
-  <font color="#10B981">|</font> CCNA Semestre 1 · Cisco Academy<br>
-  <font color="#10B981">|</font> Procesamiento Digital de Imágenes<br>
-  <font color="#10B981">|</font> Data Science con Python
-</p>
+### 📊 Data Governance & MDM
 
-<br>
+Research and case studies focused on Master Data Management and Data Governance.
 
-<p><code>stack</code> <font color="#444444">──────────────────────────────────────────────────────────</font></p>
+### ☕ JavaFX Applications
 
-<p>
-  <code><font color="#8B5CF6">python</font></code> &nbsp;
-  <code><font color="#8B5CF6">javascript</font></code> &nbsp;
-  <code><font color="#8B5CF6">jupyter</font></code> &nbsp;
-  <code><font color="#10B981">opencv</font></code> &nbsp;
-  <code><font color="#10B981">docker</font></code> &nbsp;
-  <code><font color="#10B981">postgresql</font></code> &nbsp;
-  <code><font color="#10B981">streamlit</font></code>
-</p>
+Desktop applications following the MVC architectural pattern.
 
-<br>
+### 🐍 Python Data Science
 
-<p><code>actividad</code> <font color="#444444">──────────────────────────────────────────────────────</font></p>
+Exercises and projects using Python and Jupyter Notebooks.
 
-<table width="100%" style="border: none; background-color: transparent;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none;">
-      <code>estadísticas</code><br><br>
-      <table width="100%" style="border: none;">
-        <tr style="border: none;">
-          <td align="left" style="border: none;">commits</td>
-          <td align="right" style="border: none;"><font color="#8B5CF6">3+</font></td>
-        </tr>
-        <tr style="border: none;">
-          <td align="left" style="border: none;">repositorios</td>
-          <td align="right" style="border: none;"><font color="#8B5CF6">4</font></td>
-        </tr>
-        <tr style="border: none;">
-          <td align="left" style="border: none;">contribuciones</td>
-          <td align="right" style="border: none;"><font color="#8B5CF6">15 / año</font></td>
-        </tr>
-      </table>
-    </td>
-    
-    <td width="50%" valign="top" style="border: none;">
-      <code>lenguajes</code><br><br>
-      <table width="100%" style="border: none;">
-        <tr style="border: none;">
-          <td align="left" style="border: none;">python</td>
-          <td align="right" style="border: none;"><font color="#8B5CF6">60%</font></td>
-        </tr>
-        <tr style="border: none;">
-          <td colspan="2" style="border: none; padding-top: 0;"><font color="#8B5CF6">████████████</font><font color="#333333">░░░░░░░</font></td>
-        </tr>
-        <tr style="border: none;">
-          <td align="left" style="border: none;">javascript</td>
-          <td align="right" style="border: none;"><font color="#8B5CF6">25%</font></td>
-        </tr>
-        <tr style="border: none;">
-          <td colspan="2" style="border: none; padding-top: 0;"><font color="#8B5CF6">█████</font><font color="#333333">░░░░░░░░░░░░░░</font></td>
-        </tr>
-        <tr style="border: none;">
-          <td align="left" style="border: none;">jupyter</td>
-          <td align="right" style="border: none;"><font color="#8B5CF6">15%</font></td>
-        </tr>
-        <tr style="border: none;">
-          <td colspan="2" style="border: none; padding-top: 0;"><font color="#10B981">███</font><font color="#333333">░░░░░░░░░░░░░░░░</font></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dianloop&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianloop&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-lopez-baab95381)
+
+---
+
+<div align="center">
+
+⭐ Always learning and building new things.
+
+</div>
