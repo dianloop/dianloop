@@ -6,35 +6,34 @@
 <br>
 
 <table align="center" style="border: none; background-color: transparent;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none;">
-      <h3 align="center">👩🏻‍💻 Sobre Mí</h3>
-      <ul>
-        <li>🎓 Estudiante de Ingeniería en Computación en la <b>UAEMex</b>.</li>
-        <li>🌐 Secretaria de la rama estudiantil de <b>IEEE</b>.</li>
-        <li>💡 Enfocada en crear impacto social a través del aprendizaje continuo y la tecnología.</li>
-        <li>💬 Buscando alcanzar la fluidez en inglés técnico (B1-B2).</li>
-        <li>📫 Conecta conmigo en <a href="https://www.linkedin.com/in/diana-lopez-baab95381">LinkedIn</a>.</li>
-      </ul>
-    </td>
-    
-    <td width="50%" valign="top" style="border: none;">
-      <h3 align="center">🛠️ Tech Stack</h3>
-      <div align="center">
-        <b>Lenguajes y Lógica</b><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25" />
-        <br><br>
-        <b>Ingeniería y Análisis</b><br>
-        <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" height="25" />
-        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="25" />
-        <br><br>
-        <b>Redes e Infraestructura</b><br>
-        <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="25" />
-      </div>
-    </td>
-  </tr>
+<tr style="border: none;">
+<td width="50%" valign="top" style="border: none;">
+<h3 align="center">👩🏻‍💻 Sobre Mí</h3>
+<ul>
+<li>🎓 Estudiante de Ingeniería en Computación en la <b>UAEMex</b>.</li>
+<li>🌐 Secretaria de la rama estudiantil de <b>IEEE</b>.</li>
+<li>💡 Enfocada en crear impacto social a través del aprendizaje continuo y la tecnología.</li>
+<li>💬 Buscando alcanzar la fluidez en inglés técnico (B1-B2).</li>
+<li>📫 Conecta conmigo en <a href="https://www.linkedin.com/in/diana-lopez-baab95381">LinkedIn</a>.</li>
+</ul>
+</td>
+<td width="50%" valign="top" style="border: none;">
+<h3 align="center">🛠️ Tech Stack</h3>
+<div align="center">
+<b>Lenguajes y Lógica</b><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25" />
+<br><br>
+<b>Ingeniería y Análisis</b><br>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="25" />
+<br><br>
+<b>Redes e Infraestructura</b><br>
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="25" />
+</div>
+</td>
+</tr>
 </table>
 
 <br>
