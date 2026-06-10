@@ -9,17 +9,17 @@
 <table align="center" style="border: none; background-color: transparent;">
 <tr style="border: none;">
 <td width="50%" valign="top" style="border: none;">
-<h3 align="center">👩🏻‍💻 Sobre Mí</h3>
+<h3 align="center">SOBRE MÍ</h3>
 <ul>
-<li>🎓 Estudiante de Ingeniería en Computación en la <b>UAEMex</b>.</li>
-<li>🌐 Secretaria de la rama estudiantil de <b>IEEE</b>.</li>
-<li>💡 Enfocada en crear impacto social a través del aprendizaje continuo y la tecnología.</li>
-<li>💬 Buscando alcanzar la fluidez en inglés técnico (B1-B2).</li>
-<li>📫 Conecta conmigo en <a href="https://www.linkedin.com/in/diana-lopez-baab95381">LinkedIn</a>.</li>
+<li> Estudiante de Ingeniería en Computación en la <b>UAEMex</b>.</li>
+<li> Secretaria de la rama estudiantil de <b>IEEE</b>.</li>
+<li> Enfocada en crear impacto social a través del aprendizaje continuo y la tecnología.</li>
+<li> Teniendo impacto en mujeres STEM </li>
+<li>📫 Conecta conmigo en <a href="www.linkedin.com/in/diana-lo-pez">LinkedIn</a>.</li>
 </ul>
 </td>
 <td width="50%" valign="top" style="border: none;">
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 <div align="center">
 <b>Lenguajes y Lógica</b><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" />
@@ -39,24 +39,17 @@
 
 <br>
 
-<h3 align="center">🚀 Proyectos Destacados</h3>
+<h3 align="center">Proyectos Destacados</h3>
 
 <details>
-  <summary><b>📱 Coloquio</b> - <i>Aplicación comunitaria y social</i></summary>
-  <blockquote>
-    Plataforma enfocada en el descubrimiento de eventos locales y la conexión social, diseñada con un modelo de negocio orientado a la comunidad.
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>🚘 Beep-Vision</b> - <i>Reconocimiento de Placas</i></summary>
+  <summary><b> Beep-Vision</b> - <i>Reconocimiento de Placas</i></summary>
   <blockquote>
     Sistema de visión por computadora desarrollado en MATLAB para el procesamiento digital de imágenes y reconocimiento automático de placas vehiculares.
   </blockquote>
 </details>
 
 <details>
-  <summary><b>🍔 How Many Burgers (HMB)</b> - <i>Desarrollo Web en Java</i></summary>
+  <summary><b> How Many Burgers (HMB)</b> - <i>Desarrollo Web en Java</i></summary>
   <blockquote>
     Videojuego web desarrollado en Java, estructurado bajo una arquitectura de software limpia de 5 capas.
   </blockquote>
@@ -64,7 +57,7 @@
 
 <br>
 
-<h3 align="center">📊 Estadísticas</h3>
+<h3 align="center"> Estadísticas</h3>
 <div align="center">
   <a href="https://github.com/dianloop">
     <img src="https://github-readme-stats.vercel.app/api?username=dianloop&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" height="160" alt="Estadísticas de GitHub" />
